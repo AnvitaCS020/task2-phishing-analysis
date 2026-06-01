@@ -1,0 +1,65 @@
+============================================================
+  SAMPLE PHISHING EMAIL (For Analysis Purpose Only)
+============================================================
+
+From: security-alert@paypa1-support.com
+To: user@gmail.com
+Subject: ⚠️ URGENT: Your Account Has Been Suspended - Immediate Action Required!
+Date: Mon, 30 May 2026 03:22:11 +0000
+Reply-To: noreply@paypa1-support.com
+Message-ID: <abc123@paypa1-support.com>
+X-Mailer: Microsoft Outlook 16.0
+Received: from unknown (192.168.45.23) by mail.paypa1-support.com
+
+------------------------------------------------------------
+EMAIL BODY:
+------------------------------------------------------------
+
+Dear Valued Customer,
+
+We have detected unusual activity in your PayPal account. 
+Your account has been SUSPENDED due to a security breach.
+
+You must verify your information IMMEDIATELY or your account 
+will be PERMANENTLY CLOSED within 24 hours!
+
+Click the link below to restore your account:
+
+http://paypa1-secure-login.xyz/verify?user=reset&token=abc123
+
+If you do not verify within 24 hours, all funds will be 
+frozen and legal action may be initiated against you.
+
+Provide the following details after clicking the link:
+- Full Name
+- Credit Card Number
+- CVV and Expiry Date
+- Social Security Number
+- Date of Birth
+
+This is an automated security messsage. Pleese act immedaitely.
+
+Best Regards,
+PayPal Security Team
+PayPal Inc., 2211 North First Street, San Jose, CA
+
+© 2026 PayPal. All rights reservd.
+
+------------------------------------------------------------
+EMAIL HEADERS (Raw):
+------------------------------------------------------------
+
+Received: from mail.paypa1-support.com (192.168.45.23)
+        by mx.google.com with SMTP id x9si123456
+        for <user@gmail.com>;
+        Mon, 30 May 2026 03:22:15 -0700
+Return-Path: <bounce@paypa1-support.com>
+From: security-alert@paypa1-support.com
+Reply-To: noreply@paypa1-support.com
+X-Originating-IP: 192.168.45.23
+DKIM-Signature: None
+SPF: FAIL
+DMARC: FAIL
+Content-Type: text/html; charset=UTF-8
+
+============================================================
